@@ -1,9 +1,9 @@
-name: Demo Pipeline
+name: kavi Pipeline
  
 on: push
  
 jobs:
-  My-test-job: 
+  kavi-test-job: 
     runs-on: ubuntu-latest 
     steps:
         - name: message
